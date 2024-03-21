@@ -10,7 +10,7 @@ from streamlit_option_menu import option_menu
 from PIL import Image
 
 #API key 
-google_api = "AIzaSyC_bzjkSBcAKjpgaq82SHBwZsizeMHnolk"
+google_api = 'YOUR API KEY'
 
 # mongoDB connection
 client = pymongo.MongoClient("mongodb://localhost:27017")
