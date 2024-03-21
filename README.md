@@ -1,5 +1,6 @@
 # youtube-data-harvesting-and-warehousing 
-     Explores YouTube trends using Python, MySQL, MongoDB, and Streamlit. Gather data efficiently, store it smartly, and visualize insights easily Youtube channel details are retrieved using Youtube data API application after getting the key from it . We are processing the channel details using PYTHON programming language,with various libraries for the given Project such as,
+
+Explores YouTube trends using Python, MySQL, MongoDB, and Streamlit. Gather data efficiently, store it smartly, and visualize insights easily Youtube channel details are retrieved using Youtube data API application after getting the key from it . We are processing the channel details using PYTHON programming language,with various libraries for the given Project such as,
 
 from googleapiclient.discovery import build 
      This library is part of the Google API Client library and is used for interacting with various Google services. It allows you to create a service object for making API requests and fetching data from Google services.
